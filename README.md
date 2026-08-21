@@ -1,15 +1,47 @@
-# 💫 About Me:
-High school student building projects in AI, Python, and software development.<br>Currently working on Chloe, a permission-aware AI assistant for Windows.<br>
+<img width="736" height="307" alt="download" src="https://github.com/user-attachments/assets/7adcad7b-16ce-4066-aef4-41d2339deee8" />
 
+------
+𝘏𝘪𝘨𝘩 𝘴𝘤𝘩𝘰𝘰𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘗𝘺𝘵𝘩𝘰𝘯 𝘢𝘯𝘥 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘵𝘰 𝘦𝘹𝘱𝘭𝘰𝘳𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘈𝘐, 𝘢𝘯𝘥 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩.
+𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘚𝘵𝘶𝘥𝘦𝘯𝘵 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘈𝘭𝘭𝘪𝘢𝘯𝘤𝘦 (𝘚𝘙𝘈) — 𝘢 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘵𝘰 𝘩𝘦𝘭𝘱 𝘴𝘵𝘶𝘥𝘦𝘯𝘵𝘴 𝘥𝘪𝘴𝘤𝘰𝘷𝘦𝘳 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩, 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘦, 𝘱𝘶𝘣𝘭𝘪𝘴𝘩 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴, 𝘢𝘯𝘥 𝘧𝘪𝘯𝘥 𝘢𝘤𝘢𝘥𝘦𝘮𝘪𝘤 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=raviicodess&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=raviicodess&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raviicodess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+----
 
----
-[![](https://komarev.com/ghpvc/?username=raviicodess&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/andrewcodess"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-block;
+          padding:12px 20px;
+          background:#24292f;
+          color:white;
+          text-decoration:none;
+          border-radius:8px;
+          font-family:Arial,sans-serif;
+          font-weight:bold;">
+  🐙 GitHub
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="mailto:raviprakash15022@gmail.com"
+   style="display:inline-block;
+          padding:12px 20px;
+          background:#EA4335;
+          color:white;
+          text-decoration:none;
+          border-radius:8px;
+          font-family:Arial,sans-serif;
+          font-weight:bold;">
+  ✉️ Email Me
+</a>
+
+<a href="https://open.spotify.com/user/31v3mkpopquwr7epua5rms27zzfq?si=5pTn6HadQiKG0t9ZEArV4g&utm_source=copy-link&sci=spotify%3Acard-config%3A4l6zvjNjJgXrB0sqQOP7Fb"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-block;
+          padding:12px 20px;
+          background:#1DB954;
+          color:white;
+          text-decoration:none;
+          border-radius:8px;
+          font-family:Arial,sans-serif;
+          font-weight:bold;">
+  🎵 Spotify
+</a>
